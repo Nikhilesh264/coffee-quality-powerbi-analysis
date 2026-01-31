@@ -1,4 +1,6 @@
 # Coffee Quality Analysis Dashboard (Power BI)
+An interactive Power BI dashboard analyzing coffee sensory scores, processing methods, and defects to identify factors driving coffee quality and specialty grading.
+
 
 ## Project Overview
 This project explores coffee quality evaluation data from the Coffee Quality Institute (CQI) to identify the key factors that influence specialty-grade coffee scores.
